@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Hide Nodejs
+node_modules/*
+*.git
+.git/*
+tfjs-models
+tfjs-models/*
+NLTK/*
+web/*
+.gitignore
